@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Quicksand:wght@300;400;500&family=Shrikhand&display=swap');
+
+
+.hero{
+  height: 50vh;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/1835712/pexels-photo-1835712.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+  background-size: cover;
+}
+
+h1 {font-family: 'Shrikhand' ;
+flex : white;
+}

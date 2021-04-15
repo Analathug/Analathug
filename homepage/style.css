@@ -13,8 +13,9 @@
   background-size: cover;
 }
 
+
 h1{font-family: 'Shrikhand';
-text : white;}
+flex : white;}
 
 a{font-family: 'Quicksand'}
 
@@ -27,6 +28,7 @@ h4 {font-family: 'Shrikhand' ;  font-size: 24px}
 padding: 1%;
 scroll-behavior: smooth;
 }
+
 #ul-menu{
   display:flex;
   justify-content:center;
